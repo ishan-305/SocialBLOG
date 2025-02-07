@@ -1,0 +1,6 @@
+--First Set Up the Environment Variables
+--Set up The appwrite Project 
+--Copy all the Keys and set up .env 
+--It is a good coding practice to make services to use authentication and other appwrite functions so that it does not hinder if we have to switch the backend to different infra .
+--export the services as classes(make it a snippet so we can use it any time later).
+--Make the Config file for databse features
