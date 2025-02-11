@@ -72,7 +72,6 @@ function Login() {
               placeholder="Enter your password"
               {...register("password", {
                 required: true,
-                minLength: 8,
               })}
             />
             <Button type="submit" className="w-full">
